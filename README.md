@@ -88,12 +88,4 @@ MA101,Calculus,3,Dr. Johnson,Math
 
 ---
 
-## ✅ Requirements.md
-If evaluator needs special instructions:
-- Run `AppMain.java`.  
-- Provide correct **absolute file paths** when importing/exporting CSV.  
-- Java SE 21 is required.  
-
----
-
 ## Made by - Aarshi Jaiswal - 24BCE11393
